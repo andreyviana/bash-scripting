@@ -98,3 +98,4 @@ help if
 5
 ./countdown.sh 5
 help
+help [[ expression ]]
