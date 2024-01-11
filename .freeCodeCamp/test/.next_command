@@ -95,3 +95,5 @@ help if
 ./countdown.sh arg2
 ./countdown.sh arg2
 ./countdown.sh 4
+5
+./countdown.sh 5
