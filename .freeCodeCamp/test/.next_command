@@ -57,3 +57,6 @@ echo shebang
 ./questionnaire.sh
 ls --color=auto -l
 chmod +x questionnaire.sh
+__vsc_prompt_cmd_original
+ls --color=auto -1
+ls --color=auto -l
