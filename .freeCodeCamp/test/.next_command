@@ -83,3 +83,4 @@ __vsc_prompt_cmd_original
 with bash
 bash with
 ./countdown.sh
+./countdown.sh arg1 arg2 arg3
