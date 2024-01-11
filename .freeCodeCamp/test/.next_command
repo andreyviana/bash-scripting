@@ -51,3 +51,4 @@ __vsc_prompt_cmd_original
 sh questionnaire.sh
 __vsc_prompt_cmd_original
 bash questionnaire.sh
+which bash
