@@ -271,3 +271,7 @@ echo $VAR
 [[ $VAR == \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./countdown.sh
+./countdown.sh fajd
+./countdown.sh 134243
+./fortune.sh asdfasdf
