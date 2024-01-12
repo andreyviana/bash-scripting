@@ -281,3 +281,5 @@ echo $VAR
 ./fortune.sh nothing
 touch five.sh
 chmod +x five.sh
+./questionnaire.sh
+./five.sh
