@@ -276,3 +276,5 @@ echo $VAR
 ./countdown.sh 134243
 ./fortune.sh asdfasdf
 ./fortune.sh nothing
+./fortune.sh nothing
+./fortune.sh nothing
