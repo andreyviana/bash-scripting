@@ -255,3 +255,4 @@ help
 help until
 ./fortune.sh
 help [[ expression ]]
+[[ hello == hello ]]
