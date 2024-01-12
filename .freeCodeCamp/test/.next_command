@@ -199,3 +199,6 @@ declare -p
 ./bingo.sh
 ./bingo.sh
 I=0
+echo
+echo $?
+echo $I
