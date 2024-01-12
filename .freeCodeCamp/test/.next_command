@@ -245,3 +245,4 @@ declare -p ARR
 echo ${RESPONSES[5]}
 echo ${(RESPONSES[5])}
 echo ${RESPONSES[5]}
+./fortune.sh
