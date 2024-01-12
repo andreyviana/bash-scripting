@@ -203,3 +203,4 @@ echo
 echo $?
 echo $I
 (( I++ ))
+echo $I
